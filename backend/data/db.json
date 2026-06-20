@@ -1,0 +1,338 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Maca Negra Premium",
+      "description": "Maca negra peruana de alta concentración, ideal para energía y vitalidad masculina y femenina.",
+      "price": 35.9,
+      "image": "https://images.unsplash.com/photo-1612540139150-4b5b5b5b5b5b?w=300&h=300&fit=crop",
+      "category": "superfoods",
+      "stock": 50,
+      "rating": 4.8,
+      "benefits": [
+        "Aumenta energía",
+        "Mejora la memoria",
+        "Antioxidante"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Aceite de Coco Orgánico",
+      "description": "Aceite de coco virgen extra prensado en frío, 100% orgánico y sin refinar.",
+      "price": 28.5,
+      "image": "https://images.unsplash.com/photo-1590779033100-9f60a05a013d?w=300&h=300&fit=crop",
+      "category": "aceites",
+      "stock": 30,
+      "rating": 4.6,
+      "benefits": [
+        "Hidratación",
+        "Cocina saludable",
+        "Antiinflamatorio"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Cápsulas de Camu Camu",
+      "description": "Alta concentración de vitamina C natural, 60 cápsulas por frasco.",
+      "price": 42,
+      "image": "https://images.unsplash.com/photo-1550572017-edd951b55104?w=300&h=300&fit=crop",
+      "category": "capsulas",
+      "stock": 0,
+      "rating": 4.9,
+      "benefits": [
+        "Vitamina C",
+        "Antioxidante",
+        "Inmunidad"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Té de Muña",
+      "description": "Infusión andina para la digestión y alivio de malestares estomacales.",
+      "price": 15,
+      "image": "https://images.unsplash.com/photo-1564890369478-c89ca6d9cde9?w=300&h=300&fit=crop",
+      "category": "infusiones",
+      "stock": 80,
+      "rating": 4.3,
+      "benefits": [
+        "Digestión",
+        "Antiflatulento",
+        "Calmante"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Miel de Abeja Pura",
+      "description": "Miel artesanal de la selva peruana, sin aditivos ni conservantes.",
+      "price": 22,
+      "image": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=300&h=300&fit=crop",
+      "category": "miel",
+      "stock": 25,
+      "rating": 4.7,
+      "benefits": [
+        "Energía natural",
+        "Antibacteriano",
+        "Cicatrizante"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Chía Orgánica",
+      "description": "Semillas de chía orgánica ricas en omega-3, fibra y proteínas vegetales.",
+      "price": 18.9,
+      "image": "https://images.unsplash.com/photo-1514733670139-4d87a1941d55?w=300&h=300&fit=crop",
+      "category": "superfoods",
+      "stock": 60,
+      "rating": 4.5,
+      "benefits": [
+        "Omega-3",
+        "Fibra",
+        "Proteína vegetal"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Aceite de Sacha Inchi",
+      "description": "Aceite vegetal peruano con alto contenido en omega-3, 6 y 9.",
+      "price": 45,
+      "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=300&h=300&fit=crop",
+      "category": "aceites",
+      "stock": 20,
+      "rating": 4.7,
+      "benefits": [
+        "Omega-3",
+        "Colesterol",
+        "Cerebro"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Cápsulas de Uña de Gato",
+      "description": "Extracto de uña de gato en cápsulas, reconocida por sus propiedades antiinflamatorias.",
+      "price": 32,
+      "image": "https://images.unsplash.com/photo-1550572017-edd951b55104?w=300&h=300&fit=crop",
+      "category": "capsulas",
+      "stock": 35,
+      "rating": 4.4,
+      "benefits": [
+        "Antiinflamatorio",
+        "Inmunidad",
+        "Articulaciones"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Té de Boldo",
+      "description": "Infusión de boldo para el cuidado del hígado y la digestión.",
+      "price": 12,
+      "image": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=300&h=300&fit=crop",
+      "category": "infusiones",
+      "stock": 90,
+      "rating": 4.2,
+      "benefits": [
+        "Hígado",
+        "Digestión",
+        "Depurativo"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Miel con Propóleo",
+      "description": "Combinación de miel pura con extracto de propóleo para reforzar el sistema inmune.",
+      "price": 28,
+      "image": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=300&h=300&fit=crop",
+      "category": "miel",
+      "stock": 18,
+      "rating": 4.8,
+      "benefits": [
+        "Inmunidad",
+        "Antibacteriano",
+        "Energía"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Spirulina en Polvo",
+      "description": "Alga espirulina en polvo, fuente completa de proteínas y micronutrientes.",
+      "price": 38,
+      "image": "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab12?w=300&h=300&fit=crop",
+      "category": "superfoods",
+      "stock": 40,
+      "rating": 4.6,
+      "benefits": [
+        "Proteína",
+        "Hierro",
+        "Detox"
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Aceite de Ajonjolí",
+      "description": "Aceite de sésamo tostado, ideal para aderezos y cocina asiática saludable.",
+      "price": 24,
+      "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=300&h=300&fit=crop",
+      "category": "aceites",
+      "stock": 28,
+      "rating": 4.3,
+      "benefits": [
+        "Antioxidante",
+        "Calcio",
+        "Corazón"
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Cápsulas de Maca Roja",
+      "description": "Maca roja en cápsulas, especialmente indicada para el equilibrio hormonal femenino.",
+      "price": 36,
+      "image": "https://images.unsplash.com/photo-1550572017-edd951b55104?w=300&h=300&fit=crop",
+      "category": "capsulas",
+      "stock": 45,
+      "rating": 4.5,
+      "benefits": [
+        "Hormonas",
+        "Fertilidad",
+        "Energía"
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Té de Manzanilla",
+      "description": "Manzanilla pura de los valles andinos, ideal para relajarse y conciliar el sueño.",
+      "price": 10,
+      "image": "https://images.unsplash.com/photo-1564890369478-c89ca6d9cde9?w=300&h=300&fit=crop",
+      "category": "infusiones",
+      "stock": 120,
+      "rating": 4.6,
+      "benefits": [
+        "Relajante",
+        "Sueño",
+        "Digestión"
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Miel de Eucalipto",
+      "description": "Miel monofloral de eucalipto, excelente para las vías respiratorias.",
+      "price": 25,
+      "image": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=300&h=300&fit=crop",
+      "category": "miel",
+      "stock": 22,
+      "rating": 4.5,
+      "benefits": [
+        "Respiratorio",
+        "Tos",
+        "Antibacteriano"
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Cacao Puro en Polvo",
+      "description": "Cacao peruano de origen 100% natural, sin azúcar añadida ni procesado.",
+      "price": 29,
+      "image": "https://images.unsplash.com/photo-1511381939415-e44015466834?w=300&h=300&fit=crop",
+      "category": "superfoods",
+      "stock": 55,
+      "rating": 4.7,
+      "benefits": [
+        "Antioxidante",
+        "Ánimo",
+        "Magnesio"
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Aceite de Oliva Extra Virgen",
+      "description": "Aceite de oliva importado, primera prensa en frío, ideal para ensaladas.",
+      "price": 52,
+      "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=300&h=300&fit=crop",
+      "category": "aceites",
+      "stock": 15,
+      "rating": 4.9,
+      "benefits": [
+        "Corazón",
+        "Antioxidante",
+        "Antiinflamatorio"
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Té Verde Sencha",
+      "description": "Té verde japonés sencha de alta calidad, rico en catequinas y antioxidantes.",
+      "price": 20,
+      "image": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=300&h=300&fit=crop",
+      "category": "infusiones",
+      "stock": 70,
+      "rating": 4.4,
+      "benefits": [
+        "Antioxidante",
+        "Metabolismo",
+        "Energía"
+      ]
+    }
+  ],
+  "orders": [
+    {
+      "id": "1781945102749",
+      "items": [
+        {
+          "productId": "16",
+          "name": "Cacao Puro en Polvo",
+          "price": 29,
+          "quantity": 1
+        },
+        {
+          "productId": "17",
+          "name": "Aceite de Oliva Extra Virgen",
+          "price": 52,
+          "quantity": 1
+        },
+        {
+          "productId": "15",
+          "name": "Miel de Eucalipto",
+          "price": 25,
+          "quantity": 1
+        }
+      ],
+      "total": 106,
+      "address": "Holaa",
+      "status": "pendiente",
+      "date": "2026-06-20T08:45:02.749Z"
+    },
+    {
+      "id": "1781945235790",
+      "items": [
+        {
+          "productId": "17",
+          "name": "Aceite de Oliva Extra Virgen",
+          "price": 52,
+          "quantity": 1
+        },
+        {
+          "productId": "16",
+          "name": "Cacao Puro en Polvo",
+          "price": 29,
+          "quantity": 1
+        },
+        {
+          "productId": "15",
+          "name": "Miel de Eucalipto",
+          "price": 25,
+          "quantity": 1
+        }
+      ],
+      "total": 106,
+      "address": "Waaa",
+      "status": "pendiente",
+      "date": "2026-06-20T08:47:15.790Z"
+    }
+  ],
+  "categories": [
+    "todos",
+    "superfoods",
+    "aceites",
+    "capsulas",
+    "infusiones",
+    "miel"
+  ]
+}
