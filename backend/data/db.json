@@ -325,6 +325,48 @@
       "address": "Waaa",
       "status": "pendiente",
       "date": "2026-06-20T08:47:15.790Z"
+    },
+    {
+      "id": "1781969800177",
+      "items": [
+        {
+          "productId": "2",
+          "name": "Aceite de Coco Orgánico",
+          "price": 28.5,
+          "quantity": 1
+        },
+        {
+          "productId": "1",
+          "name": "Maca Negra Premium",
+          "price": 35.9,
+          "quantity": 1
+        }
+      ],
+      "total": 64.4,
+      "address": "Av Amezaga",
+      "status": "pendiente",
+      "date": "2026-06-20T15:36:40.177Z"
+    },
+    {
+      "id": "1781970205046",
+      "items": [
+        {
+          "productId": "2",
+          "name": "Aceite de Coco Orgánico",
+          "price": 28.5,
+          "quantity": 2
+        },
+        {
+          "productId": "4",
+          "name": "Té de Muña",
+          "price": 15,
+          "quantity": 1
+        }
+      ],
+      "total": 72,
+      "address": "CAsa",
+      "status": "pendiente",
+      "date": "2026-06-20T15:43:25.046Z"
     }
   ],
   "categories": [
